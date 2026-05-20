@@ -1,0 +1,10 @@
+{
+  "name": "Dementia Speech Analyzer",
+  "description": "An AI-powered speech and language pattern analyzer designed to detect early cognitive decline, mild cognitive impairment, and possible dementia through speech characteristics.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
