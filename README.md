@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/9f8a6aac-ec8c-428c-8a4b-713e6
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+This README template provides a structured overview for a dementia detection app, highlighting AI-driven screening powered by Google AI Studio and focusing on early detection metrics, privacy, and user-friendly design. It includes sections for technical setup, AI model implementation using the Gemini API, and a necessary medical disclaimer [1].
+[1] https://github.com/sarita380/DementiaEarlyDetectionApp/edit/main/README.md
+For more information, visit GitHub.com.
+
